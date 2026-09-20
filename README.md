@@ -73,14 +73,14 @@ hasamex-ai-case/
 │
 ├── app.py
 ├── requirements.txt
-├── .env
-├── .gitignore
 ├── README.md
+├── .gitignore
+├── .env                  # Local only - not committed
 │
 ├── data/
-│   ├── france.txt
-│   ├── germany.txt
-│   └── uk.txt
+│   ├── France.txt
+│   ├── Germany.txt
+│   └── UK.txt
 │
 └── src/
     ├── __init__.py
@@ -203,7 +203,7 @@ The application uses several mechanisms to reduce unsupported answers:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/muzammilkl/hasamex-ai-case.git
 cd hasamex-ai-case
 ```
 
