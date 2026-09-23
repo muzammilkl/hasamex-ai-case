@@ -25,9 +25,9 @@ st.set_page_config(
 # --------------------------------------------------
 
 transcripts = [
-    ("france", "data/france.txt"),
-    ("germany", "data/germany.txt"),
-    ("uk", "data/uk.txt"),
+    ("france", "data/France.txt"),
+    ("germany", "data/Germany.txt"),
+    ("uk", "data/UK.txt"),
 ]
 
 
